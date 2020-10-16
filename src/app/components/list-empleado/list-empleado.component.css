@@ -1,0 +1,20 @@
+table {
+    width: 100%;
+  }
+
+  .mat-form-field {
+    font-size: 14px;
+    width: 100%;
+  }
+
+  .pointer {
+    cursor: pointer;
+  }
+
+  .mat-elevation-z8{
+    background-color: rgb(250, 212, 200);
+  }
+
+  .page{
+    background-color: rgb(250, 212, 200);
+  }
